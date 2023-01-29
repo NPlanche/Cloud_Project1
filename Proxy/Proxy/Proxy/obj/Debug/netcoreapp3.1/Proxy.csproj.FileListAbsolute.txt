@@ -1,0 +1,111 @@
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.Manifest.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.xml
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proxy.styles.css
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.RazorTargetAssemblyInfo.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Information\Application\Codes\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CopyComplete
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.Manifest.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.RazorTargetAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.xml
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proxy.styles.css
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.MvcApplicationPartsAssemblyInfo.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.Manifest.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.xml
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proxy.styles.css
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.RazorTargetAssemblyInfo.cache
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.Manifest.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.xml
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proxy.styles.css
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.RazorTargetAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Classes\Spring2023\Cloud Computing\p1\FAU-no_vs_console_problems\NETCore3.1\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.Manifest.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\staticwebassets\Proxy.StaticWebAssets.xml
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proxy.styles.css
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.RazorTargetAssemblyInfo.cache
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\ndp-l\OneDrive\Desktop\cloud_1\Proxy\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

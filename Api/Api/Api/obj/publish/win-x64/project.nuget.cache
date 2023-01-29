@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+kRKXR2pZEImwi6JmRHqMywz8lVL0QfPIq7s7jTCCI7wweBxbDzn1a8woQJqe3DM+5T68VTzH6b/mp2NTvJsg==",
+  "success": true,
+  "projectFilePath": "C:\\Classes\\Spring2023\\Cloud Computing\\project\\project 1\\FAU\\NETCore3.1\\Api\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.25\\microsoft.netcore.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.25\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.25\\microsoft.aspnetcore.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Proxy.exe
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Proxy.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Proxy.deps.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Proxy.runtimeconfig.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Proxy.pdb
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Proxy\Proxy\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

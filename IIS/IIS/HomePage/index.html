@@ -1,0 +1,100 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <span>Homepage</span>
+    <table>
+      <tr>
+        <td>
+          <!--uploading a file-->
+          <input type="file" id="upload" name="upload" placeholder="select file">
+        </td>
+        <td>
+          <!--button right now uploads a txt change to a jpg -->
+          <input type="button" value="Upload file" onclick="uploadFile()" accept="text/plain">  
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>
+                <span>File list...</span>
+                <div id="files"></div>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <input type="button" value="Get files" onclick="getFiles()">  
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>
+                <input type="text" id="file" name="file" placeholder="File name">
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <input type="button" value="Get file" onclick="getFile()" accept="text/plain">  
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+<script>
+    const endPointProxy = "http://localhost:47854/proxy/";
+
+    /// <summary>
+    /// uploadFile
+    /// reference
+    /// https://stackoverflow.com/questions/5587973/javascript-upload-file  
+    /// </summary>
+    function uploadFile(){
+      //look for the file 
+      let file = document.getElementById("upload").files[0];
+      //variable
+      let formData = new FormData();
+      //sends a file to a web api    
+      formData.append("file", file);
+      // calling a api 
+      //
+      fetch(endPointProxy + 'UploadFile', {method: "POST", body: formData});
+    }
+
+    /// <summary>
+    /// getFiles
+    /// reference
+    /// </summary>
+    function getFiles(){
+      fetch(endPointProxy + 'GetFiles', {method: "GET"})
+          .then((response) => {
+              response.json().then((data) => {
+                  console.log(data);
+              }).catch((err) => {
+                  console.log(err);
+              }) 
+          });
+    }
+
+    /// <summary>
+    /// getFile
+    /// reference
+    /// </summary>
+    function getFile(){
+      let file = document.getElementById("file").value;
+      fetch(endPointProxy + 'GetFile' + '/' + file, {method: "GET"})
+      .then((response) => {
+              response.json().then((data) => {
+                  console.log(data);
+              }).catch((err) => {
+                  console.log(err);
+              }) 
+          });
+    }
+
+</script>
