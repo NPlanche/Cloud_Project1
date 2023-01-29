@@ -1,0 +1,23 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <span>Homepage</span>
+    <input type="file" id="file" name="file">
+    <input type="button" value="Upload" onclick="uploadFile()" accept="text/plain">  
+  </body>
+</html>
+<script>
+    const endPointServer02 = "http://localhost:47854/proxy/upload";
+    /// <summary>
+    /// uploadFile
+    /// reference
+    /// https://stackoverflow.com/questions/5587973/javascript-upload-file  
+    /// </summary>
+    function uploadFile(){
+      let file = document.getElementById("file").files[0];
+      let formData = new FormData();    
+      formData.append("file", file);
+      fetch(endPointServer02, {method: "POST", body: formData});
+    }
+</script>
