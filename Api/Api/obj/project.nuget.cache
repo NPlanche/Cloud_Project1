@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OguInBjHI07GX3n9qvN17uy+3z1OkrKe7TvYNjtVIDU2TE3XHDi2jFALWTyfsWL9SWn/hg/QwO51tZcoPENf1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Classes\\Spring2023\\Cloud Computing\\p1\\FAU-no_vs_console_problems\\NETCore3.1\\Api\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

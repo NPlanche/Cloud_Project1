@@ -1,0 +1,42 @@
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Information\Application\Codes\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Classes\Spring2023\Cloud Computing\project\project 1\FAU\NETCore3.1\Api\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css

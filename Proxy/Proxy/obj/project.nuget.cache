@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oB01ybgT1qV7H5YQ4ZeU+j6gJ9233EM/DLEfk/aLe4fXEAjSHaj4zzoyzwNIzlT+ELK/DfN77gKb/j39SlJ2XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Classes\\Spring2023\\Cloud Computing\\p1\\FAU-no_vs_console_problems\\NETCore3.1\\Proxy\\Proxy\\Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndp-l\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ndp-l\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
