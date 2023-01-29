@@ -6,12 +6,11 @@
     <table>
       <tr>
         <td>
-          <!--uploading a file-->
           <input type="file" id="upload" name="upload" placeholder="select file">
         </td>
         <td>
-          <!--button right now uploads a txt change to a jpg -->
-          <input type="button" value="Upload file" onclick="uploadFile()" accept="text/plain">  
+          <!--<input type="button" value="Upload file" onclick="uploadFile()" accept="text/plain">  -->
+          <input type="button" value="Upload file" onclick="uploadFile()" accept=".png, .jpg, .jpeg">  
         </td>
       </tr>
       <tr>
@@ -55,14 +54,9 @@
     /// https://stackoverflow.com/questions/5587973/javascript-upload-file  
     /// </summary>
     function uploadFile(){
-      //look for the file 
       let file = document.getElementById("upload").files[0];
-      //variable
-      let formData = new FormData();
-      //sends a file to a web api    
+      let formData = new FormData();    
       formData.append("file", file);
-      // calling a api 
-      //
       fetch(endPointProxy + 'UploadFile', {method: "POST", body: formData});
     }
 
